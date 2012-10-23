@@ -1,4 +1,4 @@
 xkcd-ruby-scraper
 =================
 
-get all xkcd comics locally via ruby scraping
+get all xkcd comics via ruby scraping
